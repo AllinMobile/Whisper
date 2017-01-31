@@ -21,7 +21,7 @@ Display a short message at the bottom of the navigation bar, this can be anythin
 
 ![In-App](https://github.com/hyperoslo/Whisper/blob/master/Resources/in-app-notification.png)
 
-Let the users know that something happened inside the app with this beautiful customizable in app notification.
+Let the users know that something happened inside the app with this beautiful customizable in-app notification.
 
 #### Whistles
 
@@ -35,7 +35,7 @@ All the sounds are fully customizable, from colors to fonts.
 
 Shouts have an optional action that will be called if the user taps on it, and you'll even get a message when the Shout is gone. Finally, if you want to set how long the Shout should be displayed, you have a duration property.
 
-In Whisper, there is no need to think about scroll view insets anymore, this will be handled automatically. As and added bonus, when transitioning from one view controller to another, the next controllers offset will be adjusted like you would expect. It just works!
+In Whisper, there is no need to think about scroll view insets anymore, this will be handled automatically. As an added bonus, when transitioning from one view controller to another, the next controllers offset will be adjusted like you would expect. It just works!
 
 ## Usage
 
